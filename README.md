@@ -1,2 +1,2 @@
 # HTB_Writeups
-Write up of retired HTB machines
+Write ups of retired HTB machines
